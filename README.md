@@ -23,3 +23,5 @@ git clone https://github.com/roshanstha1996/EVENTZZ_G05.git
 cd EVENTZZ_G05
 npm install
 npx react-native run-android
+--or
+npx expo start
